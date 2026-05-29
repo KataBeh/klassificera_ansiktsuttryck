@@ -4,7 +4,7 @@
 Individuell deep learning-uppgift där en CNN-modell byggs, tränas och utvärderas för att klassificera ansiktsuttryck från 48x48 gråskalebilder. Projektet innehåller dataförberedelse, modellträning, prediktioner, resultatanalys och reflektion.
 
 ## Dataset
-Jag använder datasetet **FER-2013**, som laddades ner i zip version från läraren.
+Jag använder datasetet **FER-2013**, som laddades ner från läraren.
 
 Datasetet innehåller gråskalebilder av olika ansiktsutryck där varje bild är:
 
